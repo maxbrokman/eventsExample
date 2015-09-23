@@ -1,0 +1,5 @@
+suites:
+  main:
+    namespace: EventsExample
+    psr4_prefix: EventsExample
+    src_path: src
